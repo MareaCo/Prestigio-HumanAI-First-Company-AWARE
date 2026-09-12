@@ -1,0 +1,6 @@
+{
+  "name": "HumanAI First Company® by Prestigio",
+  "description": "Platform for HumanAI First Company",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
